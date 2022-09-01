@@ -1,0 +1,77 @@
+*{
+  box-sizing: border-box;
+}
+.colored-section{
+  background-color: #ff4c68;
+  color: #fff;
+  text-align: center;
+}
+.big-heading {
+  font-family: 'Montserrat Black', arial;
+   font-size: 3.5rem;
+   line-height: 1.5;
+ 
+}
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+.nav-item
+{
+  padding:0 18px;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.nav-link{
+  font-family: "Montserrat-light";
+  font-size: 1.2rem;
+}
+.search{
+  padding: 10px 5px;
+}
+.form-search{
+  margin-left: 950px;
+  padding-left: 200px;
+}
+
+/* Title Image */
+.title-image{
+  width: 70%;
+  right: 40%;
+}
+.vertical-align{
+  margin-top: 20%;
+  padding-top: 7%;
+}
+
+.content{
+     margin: 10px 0;
+  padding: 80px 0;
+  text-align: center;
+  color:black;
+}
+.row{
+  text-align: center;
+}
+.container-fluid{
+padding: 7% 15%;
+}
+.white-section{
+  text-align: center;
+  
+ }
+ .linked:visited{
+   color:black;
+   text-decoration: none;
+ }
+.social-icon{
+  margin: 20px 10px;
+  
+  }
+  .contact-me{
+    background-color: #ff4c68;
+    color: #fff;
+    padding: 90px 600px;
+  }
